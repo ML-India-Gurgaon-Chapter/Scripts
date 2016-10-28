@@ -7,3 +7,7 @@ A hands-on session on Supervised Machine Learning by [Harsh](https://github.com/
 - numpy
 - scipy
 The session utilized [AMEO](http://dl.acm.org/citation.cfm?id=2892037) dataset.
+
+## 4th Meetup - Kaggle Comp
+Discussion on a knowledge dataset.
+- Titanic: This folder has the starting scripts for [Titanic knowledge dataset](http://kaggle.com/c/titanic/) from kaggle.
